@@ -13,5 +13,18 @@ GestureApp is a mobile application designed to recognize and interpret gestures 
 - Sensors API
 - Optional ML Kit for camera-based gesture recognition
 
+## Workflow Diagram:
+Gesture -> Detection -> Interpretation -> Action
+
+## Future Updates:
+- Support for more complex gestures using machine learning.
+
+## Screenshots:
 ![GestureApp UI](images/App Icon.jpeg)
 ![GestureApp UI](images/1.jpeg)
+![GestureApp UI](images/2.jpeg)
+![GestureApp UI](images/3.jpeg)
+![GestureApp UI](images/4.jpeg)
+![GestureApp UI](images/5.jpeg)
+![GestureApp UI](images/6.jpeg)
+![GestureApp UI](images/7.jpeg)
