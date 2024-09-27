@@ -9,8 +9,7 @@ GestureApp is a mobile application designed to recognize and interpret gestures 
 
 ## Technologies Used:
 - Android Studio
-- Java/Kotlin
+- Java
 - Sensors API
 - Optional ML Kit for camera-based gesture recognition
 
-## Workflow Diagram:
