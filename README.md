@@ -20,7 +20,7 @@ Gesture -> Detection -> Interpretation -> Action
 - Support for more complex gestures using machine learning.
 
 ## Screenshots:
-![GestureApp UI](images/App Icon.jpeg)
+![GestureApp UI](images/AppIcon.jpeg)
 ![GestureApp UI](images/1.jpeg)
 ![GestureApp UI](images/2.jpeg)
 ![GestureApp UI](images/3.jpeg)
